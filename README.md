@@ -41,10 +41,20 @@ Now you can access the app at 👉 http://localhost:3000.
 ## 📂 Project Structure
 ```
 .
-├── .devcontainer/   # Devcontainer configs & environment settings
-├── app/             # Next.js application source code
-├── Dockerfile       # Multi-stage build for dev & prod
-├── compose.yml      # Docker Compose setup
+├── .devcontainer/      # Devcontainer configs, Dockerfile & environment settings
+│   ├── .env.sample
+│   ├── .zshrc
+│   ├── compose.yml
+│   ├── devcontainer.json
+│   ├── Dockerfile
+│   └── entrypoint.sh
+├── .gitignore          # Git ignore file
+├── app/                # Next.js application source code
+│   ├── public/         # Static assets
+│   ├── src/            # Application source
+│   ├── next.config.ts
+│   └── package.json
+├── LICENSE.md          # Project License
 └── README.md
 ```
 ## ✅ Features
