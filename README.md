@@ -1,4 +1,4 @@
-# ⚡️ Next.js Boilerplate with Docker & Dev Containers
+# ⚡️ Next.js Boilerplate with Docker & Devcontainer
 
 Ready-to-use **Next.js** development and production setup featuring:
 
